@@ -5,21 +5,20 @@
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
-### Hi there im Samuel Calderon Osorio 👋
+### Hi there. Im Samuel Felipe Calderon 👋
 
 <!--
 **ripsamuel/ripsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... my portfolio 
+- 🌱 I’m currently learning ... Typescript and GraphQL
+- 👯 I’m looking to collaborate on ...big projects
+- 🤔 I’m looking for help with ... Node.js
+- 💬 Ask me about ...Whatever
+- 😄 Pronouns: ... He/him/his
+- ⚡ Fun fact: ... ily sk8 and ride motorcycle🏂
 -->
 
 
@@ -33,8 +32,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Programming Languages 🌐
 
-|[<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs">]|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) |
-|---|---|---|---|---|---|
+|[<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs" width="20px">]|[ <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> ] | [ <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> ]
+|---|---|---|---|
  
 ### Tools 🛠️
 
